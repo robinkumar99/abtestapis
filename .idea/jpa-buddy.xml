@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="mysql">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="18a3bf68-7736-43fc-989f-30c02d5efa61__abtest" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/skido" />
+  </component>
+</project>
